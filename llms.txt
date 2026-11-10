@@ -1,0 +1,14 @@
+# UK Power Connections Ltd
+
+> UK Power Connections Ltd (Company No. 15728874) is a NERS-accredited Independent Connection Provider (ICP) based in St Albans, Hertfordshire. It designs and builds new and upgraded electricity connections (LV and 11kV), substations and EV charging infrastructure, ready for adoption by the DNO or IDNO. It is a separate company from UK Power Networks.
+
+- Accreditation: LRQA NERS, certificate PRJ11100515605F (full accreditation, issued 14 October 2026, valid to 18 March 2028). Construction scopes include civil works, LV and 11kV cable laying and jointing, LV terminations, 11kV substation installation and highway electrical (underground). Project management scopes are LV.
+- Verify: https://www.lrqa.com/en-gb/utilities/ners/search/?q=Uk+power+connections&sort=0
+- Office: Arquen House, 4-6 Spicer Street, St Albans, Hertfordshire, AL3 4PQ
+- Phone: 01727 229040
+- Email: projects@ukpowerconnections.com
+- Founder & Director: Ryan Brady
+
+## Pages
+- [Home](https://ukpowerconnections.com/): services, DNO applications, ICP benefits, portfolio, HV scheme, accreditation, FAQ, contact
+- [EV Projects](https://ukpowerconnections.com/ev-projects.html): EV charging infrastructure and the Challenge House case study
